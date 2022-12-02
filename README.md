@@ -1,12 +1,3 @@
-# Albumy
-
-*Capture and share every wonderful moment.*
-
-> Example application for *[Python Web Development with Flask](https://helloflask.com/en/book/1)* (《[Flask Web 开发实战](https://helloflask.com/book/1)》).
-
-Demo: http://albumy.helloflask.com
-
-![Screenshot](https://helloflask.com/screenshots/albumy.png)
 
 ## Installation
 
@@ -37,8 +28,3 @@ $ flask run
 Test account:
 * email: `admin@helloflask.com`
 * password: `helloflask`
-
-## License
-
-This project is licensed under the MIT License (see the
-[LICENSE](LICENSE) file for details).
