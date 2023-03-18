@@ -3,8 +3,8 @@
 
 clone:
 ```
-$ git clone https://github.com/greyli/albumy.git
-$ cd albumy
+$ git clone
+$ cd
 ```
 create & activate virtual env then install dependency:
 
